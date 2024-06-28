@@ -5,16 +5,16 @@ a medida que vayamos solucionandolos. Los enunciados están presentes en el driv
 El material subido posee un licenciamiento de proteccion intelectual que impide la modificacion
 uso y distribución a terceros. 
 
-El listado de ejercicios abarcados en el gitHub es el siguiente:
-01.- Datos simples
-02.- Cadenas de texto (strings)
-03.- Funciones
-04.- Bucles (while y for)
-05.- Listas y Tuplas
-06.- Diccionarios
-07.- Manejo de archivos
-08.- Comprensión de Listas y diccionarios
-09.- Funciones Lambda y empleo de Dataframe
-10.- Numpy 
-11.- Matplotlib
-12.- Pandas
+El listado de ejercicios abarcados en el gitHub es el siguiente:<br/>
+01.- Datos simples<br/>
+02.- Cadenas de texto (strings)<br/>
+03.- Funciones<br/>
+04.- Bucles (while y for)<br/>
+05.- Listas y Tuplas<br/>
+06.- Diccionarios<br/>
+07.- Manejo de archivos<br/>
+08.- Comprensión de Listas y diccionarios<br/>
+09.- Funciones Lambda y empleo de Dataframe<br/>
+10.- Numpy <br/>
+11.- Matplotlib<br/>
+12.- Pandas<br/>
